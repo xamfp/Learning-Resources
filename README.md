@@ -90,7 +90,7 @@ Resources to learn more about programming and cyber security.
 ### Burp Suite
 * https://portswigger.net/burp/
 
-### Zaproxy
+### OWASP Zed Attack Proxy
 * https://github.com/zaproxy/zaproxy
 
 ### Damn Vulnerable Web Application (DVWA)
