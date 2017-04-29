@@ -10,6 +10,9 @@ Resources to learn more about programming and cyber security.
 ### Udemy: Various online courses
 * https://www.udemy.com/courses/development/
 
+### Stack Overflow
+* https://stackoverflow.com/
+
 ### Cybrary: Online Cyber Security Training, Free, Forever
 * https://www.cybrary.it/
 
@@ -56,13 +59,25 @@ Resources to learn more about programming and cyber security.
 ### The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws 2nd Edition
 * https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470
 
+### The Mobile Application Hacker's Handbook 1st Edition
+* https://www.amazon.com/Mobile-Application-Hackers-Handbook/dp/1118958500
+
+## Reversing: Secrets of Reverse Engineering 1st Edition
+* https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817
+
+## Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation 1st Edition
+* https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315
+
+### The Antivirus Hacker's Handbook 1st Edition
+* https://www.amazon.com/Antivirus-Hackers-Handbook-Joxean-Koret/dp/1119028752
+
 ### The Browser Hacker's Handbook 1st Edition
 * https://www.amazon.com/Browser-Hackers-Handbook-Wade-Alcorn/dp/1118662091
 
 ### The Shellcoder's Handbook: Discovering and Exploiting Security Holes 2nd Edition
 * https://www.amazon.com/Shellcoders-Handbook-Discovering-Exploiting-Security/dp/047008023X
 
-# Useful Security Related Software 
+# Useful Security Related Software
 ### Kali Linux
 * https://www.kali.org/
 
@@ -84,3 +99,34 @@ Resources to learn more about programming and cyber security.
 ### WebGoat
 * https://github.com/WebGoat/WebGoat/releases
 
+# Useful Programming & Security Related Websites
+### Exploits Database by Offensive Security
+* https://www.exploit-db.com/
+
+### CVE Security Vulnerability Database
+* http://www.cvedetails.com/
+
+### NVD - National Vulnerability Database
+* https://nvd.nist.gov/
+
+### Rapid7 Vulnerability Database
+* https://www.rapid7.com/db/vulnerabilities
+
+### Shodan
+* https://www.shodan.io/
+
+# Programming and Security Related Hardware
+### Raspberry Pi
+* https://www.raspberrypi.org/
+
+### WiFi Pineapple
+* https://hakshop.com/products/wifi-pineapple
+
+### Bash Bunny
+* https://hakshop.com/products/bash-bunny
+
+### USB Rubber Ducky Deluxe 
+* https://hakshop.com/products/usb-rubber-ducky-deluxe
+
+### LAN Turtle
+* https://hakshop.com/products/lan-turtle
