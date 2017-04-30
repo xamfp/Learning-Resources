@@ -105,7 +105,7 @@ Resources to learn more about programming and cyber security.
 ### WebGoat
 * https://github.com/WebGoat/WebGoat/releases
 
-# Useful Programming & Security Related Websites
+# Useful Security Related Websites
 ### Exploits Database by Offensive Security
 * https://www.exploit-db.com/
 
