@@ -1,6 +1,6 @@
 Learning Resources
 ===================
-Resources to learn more about programming and cyber security.
+Resources to learn more about programming and cyber security. 
 - - - - 
 
 # Online Resources 
@@ -45,6 +45,8 @@ Resources to learn more about programming and cyber security.
 ### PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide (4th Edition)
 * https://www.amazon.com/PHP-MySQL-Dynamic-Web-Sites/dp/0321784073
 
+### Google Hacking for Penetration Testers, Third Edition
+* https://www.amazon.com/Google-Hacking-Penetration-Testers-Third/dp/0128029641
 ### Black Hat Python: Python Programming for Hackers and Pentesters
 * https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900
 
