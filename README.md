@@ -13,6 +13,9 @@ Resources to learn more about programming and cyber security.
 ### Stack Overflow
 * https://stackoverflow.com/
 
+### Open Web Application Security Project (OWASP) Wiki
+* https://www.owasp.org/index.php/Main_Page
+
 ### Cybrary: Online Cyber Security Training, Free, Forever
 * https://www.cybrary.it/
 
@@ -25,8 +28,6 @@ Resources to learn more about programming and cyber security.
 ### Offensive Security: Hands-on security training programs & Information Security Certifications
 * https://www.offensive-security.com/information-security-certifications/
 
-### Open Web Application Security Project (OWASP) Wiki
-* https://www.owasp.org/index.php/Main_Page
 
 # Books #
 ### Linux Command Line and Shell Scripting Bible 3rd Edition
@@ -62,10 +63,10 @@ Resources to learn more about programming and cyber security.
 ### The Mobile Application Hacker's Handbook 1st Edition
 * https://www.amazon.com/Mobile-Application-Hackers-Handbook/dp/1118958500
 
-## Reversing: Secrets of Reverse Engineering 1st Edition
+### Reversing: Secrets of Reverse Engineering 1st Edition
 * https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817
 
-## Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation 1st Edition
+### Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation 1st Edition
 * https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315
 
 ### The Antivirus Hacker's Handbook 1st Edition
@@ -77,7 +78,7 @@ Resources to learn more about programming and cyber security.
 ### The Shellcoder's Handbook: Discovering and Exploiting Security Holes 2nd Edition
 * https://www.amazon.com/Shellcoders-Handbook-Discovering-Exploiting-Security/dp/047008023X
 
-# Useful Security Related Software
+# Useful Security Related Software and Websites
 ### Kali Linux
 * https://www.kali.org/
 
@@ -96,12 +97,18 @@ Resources to learn more about programming and cyber security.
 ### Damn Vulnerable Web Application (DVWA)
 * http://www.dvwa.co.uk/
 
+### [PentesterLab]
+* https://pentesterlab.com/exercises?sort=free
+
 ### WebGoat
 * https://github.com/WebGoat/WebGoat/releases
 
 # Useful Programming & Security Related Websites
 ### Exploits Database by Offensive Security
 * https://www.exploit-db.com/
+
+### Local Root Exploit Database
+* https://www.kernel-exploits.com/
 
 ### CVE Security Vulnerability Database
 * http://www.cvedetails.com/
@@ -114,6 +121,9 @@ Resources to learn more about programming and cyber security.
 
 ### Shodan
 * https://www.shodan.io/
+
+### Pentestmonkey Reverse Shell Cheat Sheet
+* http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 
 # Programming and Security Related Hardware
 ### Raspberry Pi
